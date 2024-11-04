@@ -15,6 +15,8 @@ function getRandomNumber(){
   return  Math.floor(Math.random()*hex.length);
 }
 
+
+
 function getRandomColor(){
 
   var hexColor ="#";
